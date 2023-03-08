@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRnh ./ ../ /boot
+ls -lRns ./ ../ /boot
